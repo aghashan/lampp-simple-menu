@@ -11,7 +11,7 @@
 - ```
   sudo cp simple-mysql /bin/
   ```
-- To run the program, paste the command below in the terminal. 
+ To run the program, paste the command below in the terminal. 
 - ```
   simple-mysql
   ``` 
