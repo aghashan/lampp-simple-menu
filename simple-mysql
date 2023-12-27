@@ -31,6 +31,6 @@ do
            echo "We're done"
            break;;
         *)
-           echo "Ooops";;
+           break;;
     esac
 done
