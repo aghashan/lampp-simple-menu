@@ -4,9 +4,9 @@ echo "     ===== Mysql Simple Menu ====="
 
 PS3="Masukan Pilihan : "
 
-select lng in Run Stop Restart Apache-stop Apache-start Quit
+select menu in Run Stop Restart Apache-stop Apache-start Quit
 do
-    case $lng in
+    case $menu in
         "Run")
               clear 
               /opt/lampp/xampp start 
