@@ -1,0 +1,36 @@
+#!/bin/bash
+
+echo "     ===== Mysql Simple Menu ====="
+
+PS3="Masukan Pilihan : "
+
+select lng in Run Stop Restart Apache-stop Apache-start Quit
+do
+    case $lng in
+        "Run")
+              clear 
+              /opt/lampp/xampp start 
+              break ;; 
+        "Stop")
+           clear
+           /opt/lampp/xampp stop
+           break;;
+        "Restart")
+           clear
+           /opt/lampp/xampp restart
+           break;;
+        "Apache-stop")
+           clear
+           /etc/init.d/apache2 stop
+           break;;
+        "Apache-start")
+           clear
+           /etc/init.d/apache2 start
+           break;;           
+        "Quit")
+           echo "We're done"
+           break;;
+        *)
+           echo "Ooops";;
+    esac
+done
