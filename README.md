@@ -1,5 +1,5 @@
 # mysql-simple-menu
-
+This program is used to run MySQL more easily.
 ## Install And Usage
 - Open Terminal
 - ```
@@ -11,7 +11,7 @@
 - ```
   sudo cp simple-mysql /bin/
   ```
- To run the program, paste the command below in the terminal. 
+- To run the program, paste the command below in the terminal. 
 - ```
   simple-mysql
   ``` 
