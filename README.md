@@ -13,5 +13,5 @@ This program is used to run MySQL more easily.
   ```
 - To run the program, paste the command below in the terminal. 
 - ```
-  simple-mysql
+  sudo simple-mysql
   ``` 
