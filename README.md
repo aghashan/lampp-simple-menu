@@ -9,7 +9,7 @@
   cd /mysql-simple-menu
   ```
 - ```
-  sudo cp /bin/
+  sudo cp simple-mysql /bin/
   ```
 - To run the program, paste the command below in the terminal. 
 - ```
