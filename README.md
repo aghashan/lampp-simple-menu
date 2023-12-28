@@ -1,4 +1,4 @@
-# mysql-simple-menu
+# lampp-simple-menu
 This program is used to run Lampp more easily.
 ## Install And Usage
 - Open Terminal
