@@ -8,9 +8,9 @@ select menu in Run Stop Restart Apache-stop Apache-start Quit
 do
     case $menu in
         "Run")
-              clear 
-              /opt/lampp/xampp start 
-              break ;; 
+            clear 
+            /opt/lampp/xampp start 
+            break ;; 
         "Stop")
            clear
            /opt/lampp/xampp stop
