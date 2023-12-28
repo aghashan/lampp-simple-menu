@@ -1,17 +1,17 @@
 # mysql-simple-menu
-This program is used to run MySQL more easily.
+This program is used to run Lampp more easily.
 ## Install And Usage
 - Open Terminal
 - ```
-  git clone https://github.com/aghashan/mysql-simple-menu
+  git clone https://github.com/aghashan/lampp-simple-menu
    ```
 - ```
-  cd /mysql-simple-menu
+  cd lampp-simple-menu
   ```
 - ```
-  sudo cp simple-mysql /bin/
+  sudo cp simple-lampp /bin/
   ```
 - To run the program, paste the command below in the terminal. 
 - ```
-  sudo simple-mysql
+  sudo simple-lampp
   ``` 
