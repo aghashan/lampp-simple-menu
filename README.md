@@ -1,6 +1,7 @@
 # lampp-simple-menu
 This program is used to run Lampp more easily.
 ## Install And Usage
+- Ensure that LAMPP is already installed
 - Open Terminal
 - ```
   git clone https://github.com/aghashan/lampp-simple-menu
