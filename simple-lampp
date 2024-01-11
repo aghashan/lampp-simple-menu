@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "     ===== Mysql Simple Menu ====="
+echo "     ===== Mysql Simple Menu =+===="
 
 PS3="Masukan Pilihan : "
 
